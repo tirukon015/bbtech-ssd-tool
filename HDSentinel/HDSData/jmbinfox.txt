@@ -1,0 +1,16 @@
+DETJMX v0.03 (c) 2020. www.hdsentinel.com
+-- CONTROLLER 1 START --
+
+
+Check "\\.\PhysicalDrive1" ...
+jmraid_set_vendor_id | 197B0562
+jmraid_set_vendor_id | 197B0322
+jmraid_set_vendor_id | 00290562
+jmraid_set_vendor_id | 197B0393
+jmraid_set_vendor_id | 197B0500
+jmraid_set_vendor_id | 00000000
+
+jmraid_detect_vendor_id failed
+---- DriveIndex=1,1
+-- CONTROLLER 1 END --
+

@@ -1,0 +1,1395 @@
+Hard Disk Sentinel on jo käynnissä.
+Virhe
+Kiintolevyn lämpötila
+Vikariski
+OK
+Tuettu
+Ei tuettu
+Kyllä
+Kiintolevyasemat 
+Valitse kiintolevy(t) jotka haluat nähdä tilaikkunassa. Kaksoisnapsauta valitaksesi tehtäväpalkin kuvakkeet. Napsauta oikealla nähdäksesi paikallisvalikon.
+Nro
+Nimi (Koko)
+Lämpötila
+Ilmoitusaluekuvake
+Valinnat 
+Näytä tilaikkuna käynnistettäessä
+Lataa Windowsin mukana
+Läpinäkyvyys:
+Kieli:
+Sulje
+Hard Disk Sentinel
+Valitse tämä asema sen lämpötilan näyttämiseksi ilmoitusalueella
+Näytä tilaikkuna
+Piilota tilaikkuna
+Asetukset
+Lopeta
+Ainakin yksi kiintolevy pitää valita.
+Tilaikkuna
+Taustaväri
+Taustakuva
+Valitse
+Virhe avattaessa kuvatiedostoa.
+Tuetut kuvatiedostot|*.jpg;*.bmp|Kaikki tiedostot|*.*
+Tiedot
+S.M.A.R.T.
+Levyn suorituskyky
+Osiot
+Levyn tiedot
+Siirtonopeustiedot
+Dataa luettu kaikkiaan
+Dataa kirjoitettu kaikkiaan
+Nykyinen siirtonopeus
+kB/s
+Nykyinen lukunopeus
+Nykyinen kirjoitusnopeus
+Nykyinen levyn aktiviteetti
+Levyn aktiviteetti %
+Siirtonopeus (MB/s)
+Kiintolevyn yhteenveto
+Kiintolevyn numero
+Kiintolevyn mallin ID
+Ohjelmistopäivitys
+Kiintolevyn sarjanumero
+Yhteiskoko
+ATA-tiedot
+Kiintolevyllä sylintereitä
+Kiintolevyllä päitä
+Kiintolevyllä sektoreita
+Sektoreita yhteensä
+ATA-päivitys
+Tavuja sektorilla
+Tavuja loogisella raidalla
+Puskurin koko
+Yhteissiirtosektoreita
+Virheenkorjaustavut
+Alustamaton kapasiteetti
+Maks. PIO-moodi
+Aktiivinen PIO-moodi
+Maximum UDMA-moodi
+Aktiivinen UDMA-moodi
+ATA-ominaisuudet
+Tuettu
+Ei tuettu
+Attribuutti
+Kynnys
+Arvo
+Huonoin
+Data
+Tila
+Osiotiedot
+Looginen asema
+Yhteistila
+Vapaa tila
+Osiotyyppi
+tavua
+Käytetty tila
+Levy:
+Maksimisiirtonopeus
+Arvioitu maksimisiirtonopeus
+DVD:n kirjoitusnopeus
+Levyn suurempi käyttöaste tarpeen mittaukseen.
+OK (Aina läpäissyt)
+Epäonnistunut (Aina epäonnistunut)
+Huomautus: Käyttöraja ylitetty
+Virhe-ennakointi: Datahävikki ennakoitu
+Kopioi koko sivu leikepöydälle
+Kiintolevyn lämpötilahistoria
+asennuksen jälkeen
+Tietoja
+Rekisteröinti
+Rekisteröintinimi:
+Rekisteröintiavain:
+Kelpaamaton rekisteröintiavain, rekisteröinti epäonnistunut.
+Rekisteröinti onnistunut. Kiitos tuesta.
+Näytä pääikkuna käynnistettäessä
+Saatavissa vain rekisteröinnin ja aktivoinnin jälkeen.
+Rekisteröimätön versio, rekisteröi ole hyvä.
+Rekisteröity nimelle:
+Yleiskatsaus
+Nykyinen lämpötila:
+Maksimilämpötila (tänään):
+Lämpötila on hyvä.
+Nykyinen lämpötila on liian korkea. On suositettavaa jos mahdollista käyttää kiintolevyn jäähdytyslaitetta (esim. tuuletinta tai passiivijäähdytintä).
+Nykyinen lämpötila on hyvä, mutta aiemmin se oli liian korkea. On suositettavaa jos mahdollista käyttää kiintolevyn jäähdytyslaitetta (esim. tuuletinta tai passiivijäähdytintä).
+Suorituskyky:
+Kunto:
+Erinomainen
+Hyvä
+Kohtalainen
+Tyydyttävä
+Huono
+Ei tarvittavia toimenpiteitä.
+On suositettavaa varmistaa usein datahävikin estämiseksi.
+Ominaisuudet
+Kiintolevyn yleiskatsaus
+Edellinen kiintolevy
+Seuraava kiintolevy
+Hälytykset
+Meilaa hälytys jos kiintolevyvaurio ennakoitavissa
+Meilaa hälytys jos kiintolevyn lämpötila on yli
+Email-asetukset
+Email-tili:
+Lähettäjän nimi:
+Lähettäjän email:
+Vastaanottajan email:
+SMTP-palvelin:
+Todennustiedot (Jätä nämä kentät täyttämättä, ellei vaadita)
+Käyttäjänimi:
+Salasana:
+Oletus
+Seuraava kenttä täytyy määrittää meilin lähettämiseksi:
+Haluatko antaa nämä tiedot nyt?
+Virhe meilattaessa hälytystä.
+Hälytys meilattu.
+Ylikuumeneminen
+Lämpötilakynnyksen asetus:
+Lämpöyksikkö:
+Lähetetään raporttia
+Fontti:
+Tallenna
+Näytä vain korkein lämpötila ilmoitusalueella
+Siirrettävän datan yksikkö:
+Äänitason hallinta-asetukset
+Pois käytöstä
+Aktivoitu
+Nykyinen äänitaso
+Suositettu äänitaso
+Tuntematon
+Maks. suorituskyky ja äänitaso
+Min. suorituskyky ja äänitaso
+Tasapainotettu suorituskyky ja äänitaso
+Äänitason hallinta
+Oletus
+Keskimäärin luettu per päivä
+Keskimäärin kirjoitettu per päivä
+Tartu näytön reunoihin
+Varoitus
+Lähetä/näytä viesti
+Sammutus
+Kun vaurio odotettavissa
+Kun lämpötila liian korkea
+Kun uusi lokimerkintä lisätty
+Lähetä päivittäisen tilan meili
+Kello
+Kriittinen laadun heikentyminen
+Nykyinen tila
+Tilatietojen meilin lähetysvirhe.
+Tilatietojen meilin lähetys onnistui.
+Päivitys
+Etsi uutta versiota ja päivitystä viikoittain
+Tarkista uusi versio nyt
+Viime tarkistuksen päiväys:
+Ei tehty tarkistuksia
+Peruuta
+Asennettu versio:
+Viimeisin versio:
+Päivitystiedostot
+Nykyinen tiedosto:
+Koko prosessi:
+Tällä hetkellä ei ole saatavissa päivitysversiota.
+Virhe ladattaessa. Tarkista verkkoyhteys ja koeta uudelleen.
+Päivitys onnistui täydellisesti.
+Tila: Tarkistetaan saatavissa olevaa versiota
+Tila: Ladataan
+Sulje
+Kiintolevyä ei löytynyt.
+S.M.A.R.T. ei toimi. Sinun tulee kopioida tiedosto Smartvsd.vxd kansiosta Windows\System kansioon Windows\System\IoSubsys ja käynnistää tietokoneesi uudelleen. Tarkista tarkemmat tiedot valikosta Ohje -> Installation.
+Tarvitaan järjestelmänvalvojan oikeudet kiintolevyn tietojen käyttöön.
+Loki
+Kirjattujen ongelmien määrä:
+Huomaa: Rekisteröity versio voi meilata hälytyksiä ja sammuttaa tietokoneen, kun uusi kiintolevyongelma havaitaan ja kirjataan.
+Ongelmia ei kirjattu.
+Kiintolevyn tila on vakaa.
+Varoitus: kiintolevyn tila on huonontunut viime päivinä.
+Päiväys
+Edellinen arvo
+Uusi arvo
+Varoitus: useita ongelmia havaittu viime päivinä.
+Aiemmin toiminut kiintolevy ei vastaa. On mahdollista että käyttöjärjestelmä on pysäyttänyt laitteen estääkseen (enemmät) ongelmat.
+Ohjelman tila:
+Virhe luettaessa aktivointitietoja.
+Rekisteröinti ja aktivointi onnistuivat.
+Rekisteröity muttei aktivoitu.
+Ei rekisteröity eikä aktivoitu.
+Rekisteröinti ja aktivointi online
+Rekisteröinti ja aktivointi meilitse
+Aktivointitiedosto tallennettu nimellä
+Lähetä tämä tiedosto varustettuna rekisteröintinimelläsi ja rekisteröintiavaimellasi osoitteeseen info@hdsentinel.com. Kehittäjä lähettää takaisin rekisteröintitiedostosi, joka pitää ladata painikkeella Lataa aktivoitu avaintiedosto (tai se on mahdollista kopioida manuaalisesti tämän sovelluksen kansioon).
+On suositettavaa käyttää online-aktivointimenetelmää, koska se on nopeampi ja mukavampi.
+Maksimimäärä aktivointeja tehty tälle rekisteröintiavaimelle.
+Aktivointivirhe
+Virhe kommunikoitaessa aktivointipalvelimen kanssa.
+Ota yhteyttä kehittäjään lisenssistäsi.
+Sovellus on jo aktivoitu tällä rekisteröintiavaimella 5 eri kokoonpanolle.
+Virhe luettaessa dataa palvelimelta.
+Aktivointi ei ole mahdollinen.
+Aktivointi tehty, kiitos tuestasi.
+Aktivointi onnistui
+Aktivointi meilitse
+Windows 98:n yhteydessä on mahdollista, että jokin USB-laite aiheuttaa tämän ongelman, koska USB-laite saattaa aiheuttaa S.M.A.R.T. -ongelmia toissijaisella IDE-kanavalla.
+Levy ei vastaa.
+Levy ei ole vastannut pitkään aikaan. Se voi olla irtikytketty.
+Näytä sovellus sekä tehtäväpalkissa että ilmoitusalueella
+Analysoidaan järjestelmää. Odota.
+Ohje
+Anna rekisteröintinimesi (nimesi tai nimimerkkisi) ja saamasi rekisteröintiavain. Jos tietokoneessasi on aktiivinen internetyhteys, valitse online-aktivointi: näin rekisteröinti ja aktivointi on automaattista, muita toimia ei tarvita. Muussa tapauksessa valitse email-aktivointimenetelmä ja lähetä esitetty tiedosto tekijälle. Kun saat aktivoidun avaintiedostosi, siirrä se sovelluskansioon.
+Tapahtuma
+Liittymän suomentanut:
+Jarkko Mäkineva
+jarkkomakineva@gmail.com
+Email
+TXT-tiedostot
+Kaikki tiedostot
+Kuvake on punainen, jos lämpötila on yli
+Lisävalinnat
+Havainnointitaajuus:
+1 sekunti
+5 sekuntia
+10 sekuntia
+30 sekuntia
+1 minuutti
+2 minuuttia
+5 minuuttia (oletus)
+10 minuuttia
+30 minuuttia
+1 tunti
+Aktivoi varoitus jos kiintolevy ei vastaa
+Keskimääräinen lämpötila (tänään):
+Nykyinen
+Päivittäinen keskiarvo
+Päivittäinen maksimi
+Äänihälytys
+Valitse äänitiedosto
+Äänitiedostot
+Kaksoisnapsauta tai napsauta oikealla nähdäksesi lisätietoja.
+Säädä
+OK
+Peruuta
+Tapahtui virhe suoritettaessa tätä komentoa.
+Tämä toiminto vaatii Windows 2000:n, XP:n tai uudemman käyttöjärjestelmän.
+Kun vapaa levytila vähäinen
+Aseta vapaan levytilan kynnys
+Käytä samaa asetusta kaikkiin asennettuihin kiintolevyihin
+Yleisasetus
+Varoitus jos vapaa tila on vähemmän kuin
+Vähäinen levytila
+Vähäinen
+Poista käytöstä automaattinen scandisk Windowsin käynnistyessä
+Tietokone täytyy käynnistää uudelleen asetusten voimaansaattamiseksi.
+Synkronoi tietokoneen kello atomikellon kanssa
+Kun sovellus käynnistetään
+Haluatko nähdä kiintolevy(je)n tilan pienessä tilaikkunassa?\n(Myöhemmin on mahdollista muuttaa tätä asetusta napsauttaen oikealla\nilmoitusaluekuvaketta ja valitsemalla valikosta "Asetukset".)
+Lämpötila ei ole tuettu tällä kiintolevyllä.
+Ei voi määrittää tällä kiintolevyllä.
+Ohje
+Ohje ei ole saatavilla. Lataa täysasennuspakkaus sovelluksen websivulta.
+Tätä toimintoa ei ole saatavilla tällä valitulla kiintolevyllä.
+Modifioi Resurssienhallinnan oletuskiintolevykuvakkeet
+SCSI-tiedot
+Toimittajan tiedot
+Versio
+Laitetyyppi
+Levy
+Siirrettävä
+Vaurioennakointi
+Kiintolevy
+Etäasema
+Optinen tallennin
+Merkityt loogiset asemat kuuluvat nykyiseen fyysiseen kiintolevyyn.
+Muuta näyttötapaa
+Taltion otsikko
+Sarjanumero
+Tarkkaile levytilaa verkkolevyillä
+Pikanäppäimet
+Komento
+Aktivoi järjestelmän pikanäppäimet (voidaan käyttää kaikista sovelluksista)
+Levyn hallinta
+Vaihda verkkolevyjen oletusjärjestelmäkuvake
+Tarkkaile levytilaa siirrettävillä levyillä
+Vaihda siirrettävien levyjen oletusjärjestelmäkuvake
+Älä tarkkaile levytilatietoja seuraavilla levyillä: (esim: CDE)
+Älä vaihda oletusjärjestelmäkuvaketta seuraaville levyille: (esim: KL)
+Kaksoisnapsauta avataksesi aseman. F5 päivittää.
+Ei levyä asemassa
+Meilaustesti
+Jos tämä viesti välitetään, email-asetukset ovat oikein.
+Testimeilin lähetys onnistui.
+Virhe testimeilin lähetyksessä. Tarkista email-asetukset.
+Virran päälläoloaika:
+päivää
+tuntia
+minuuttia
+Arvioitu jäljellä oleva elinaika:
+yli
+s
+Portti:
+Viive ennen scandiskin käynnistystä (sekuntia):
+Kuntoarvio:
+Kun levyn kunto huono
+Paniikkivarmistus
+Kuntokynnys:
+Näytä viesti ruudulla
+Lähetä viesti etäkoneeseen (NET SEND):
+Tämä toiminto on käytettävissä vain, jos on asennettu PROFESSIONAL-versio.\nTätä toimintoa käyttäen on mahdollista aloittaa esiasetuksin varmistusoperaatio(t), kun ongelma on havaittu.\n\nKäy kotisivulla (www.hdsentinel.com) lukeaksesi lisää tästä toiminnosta.
+Huono kunto
+Luo testiraportti
+Virhe lähetettäessä raporttia.\nAvaa ikkuna Asetukset, valitse Testiraportin lähetys, tallenna raportti ja lähetä se osoitteeseen reports@hdsentinel.hu
+Viestiasetukset
+Lähetä meili
+Valitse oletusinternetyhteys ennen lähetystä
+Sulje yhteys lähetyksen jälkeen
+Näytä myös mukautettu viesti tekstitiedostosta
+Odota, mitataan ...
+Rekisteröintitiedot eivät kelpaa - tämä toiminto on poistettu käytöstä.
+Kuntotiedot
+Virhe tallennettaessa. Levy voi olla täysi tai vain luku -tilassa.
+Kynnykset / Ilmoitusaluekuvake
+Näytä kiintolevyn lämpötila ilmoitusaluekuvakkeella
+Alle
+Välillä \1 - \2
+Lämpö:
+Yli
+Käytä klassisia (digitaalisia) ilmoitusaluekuvakkeiden numeroita
+Tausta
+Edusta
+Malli
+Näytä kiintolevyn kuntotila ilmoitusaluekuvakkeella
+Sovelluksen tiedot
+Nykyinen päiväys ja aika
+Järjestelmän tiedot
+Windowsin versio
+CPU:n tyyppi & nopeus
+BIOS:in valmistaja
+Fyysisen muistin koko
+Näyttösovitin
+Näytön resoluutio
+Tulostin
+Verkko-ohjain
+PCI-laitetiedot
+Tietokoneen tiedot
+Tietokoneen nimi
+Käyttäjän nimi
+IP-osoite
+MAC-osoite
+Fyysisen levyn tiedot
+Liput
+Kriittinen
+Tilastollinen
+Suorituskyky
+Vikataajuus
+Tapahtumamäärä
+Itsesuojaus
+Työpöytä
+Palvelin
+Mobiili
+Tietokoneen tyyppi
+Yleistiedot
+HTML-tiedostot|*.html|Kaikki tiedostot|*.*
+Tallenna raportti
+Meilaa raportti
+Raportin tyyppi:
+Yksityiskohtainen HTML-raportti
+Lyhyt tekstiraportti
+Testiraportin lähetys
+Näytettävät kiintolevyn tiedot
+Kiintolevyn malli
+Loogiset asemat
+Kunto
+Tila / Ongelma
+Fyysiset levyt
+Kiintolevyn tila on tuntematon.
+Kiintolevyn tila on täydellinen.
+Kiintolevyn tila ei ole täydellinen.
+Vaurio odotettavissa tälle kiintolevylle.
+Levyn pinnassa on \1 huonoa sektoria. Näiden sektorien sisältö on siirretty erityisvaratulle alueelle.
+Johtuen uudelleenmääritysoperaatioiden määrästä levyn kunto on heikentynyt vaiheittain.
+Johtuen uudelleenmääritysoperaatioiden määrästä huonot sektorit voivat muodostaa yhtenäisiä alueita.
+Asema löysi \1 huonoa sektoria itsetestinsä aikana.
+Ongelmia ilmeni levyn kiihdytyksen aikana \1 kerran. Tämä saattaa aiheutua levystä itsestään tai suuresta virtakuormituksesta (heikko virtalähde).
+Levyn pinnasta löytyi \1 heikkoa sektoria. Ne voidaan uudelleenmäärittää milloin vain levyn myöhemmässä käytössä.
+Ongelmia ilmeni levyn ja isännän (host) kommunikaation välillä \1 kerran. Äkillisen kaatumisen tai uudelleenkäynnistyksen varalta on suositettavaa kokeilla lyhyttä eri datakaapelia (vältä pyöreitä kaapeleita, käytä sen sijaan 80-johtimisia standardikaapeleita).
+On suositettavaa tutkia säännöllisesti levyn loki. Kaikki löydetyt uudet  ongelmat kirjautuvat sinne.
+Kiintolevyn tila on TÄYDELLINEN. Ongelmallisia tai heikkoja sektoreita ei löytynyt eikä ole kiihdytys- tai datansiirtovirheitä. 
+Suorita
+Siirtymä
+Siirtymä:
+On suositettavaa kalibroida lämpötila ja säätää lämpötilan siirtymä lehdellä S.M.A.R.T. Näin oikea lämpöarvo näkyy myöhemmin. 
+Kunnon arviointimenetelmä:
+Analysoi datakenttä (oletus)
+Analysoi valmistajakohtaiset arvot (EI SUOSITETA)
+Kynnyksen ylityskohta:
+Attribuuttikaavio
+Näytä datakenttä
+Näytä valmistajakohtaiset arvot
+Ei arviota
+Tapahtunut
+Yksityiskohtainen tekstiraportti
+Tiedosto
+Näytä
+Raportti
+Tallenna TXT-raportti
+Tallenna HTML-raportti
+Lähetä TXT-raportti
+Lähetä HTML-raportti
+On suositettavaa jatkuvasti tarkkailla kiintolevyn tilaa.
+Analysoi datakenttä (täsmällisempi, suositetaan palvelimille)
+Muokkaa attribuuttisiirtymä
+Tämän valinnan käyttöä suositetaan vain kokeneille käyttäjille. Tätä valintaa käytettäessä esitetty tila ei heijastane todellista tilannetta. Haluatko varmasti muuttaa tätä valintaa?
+Älä näytä tätä enää
+Tämän valinnan käyttöä suositetaan vain kokeneille käyttäjille. Tätä valintaa käytettäessä on mahdollista näyttää virheellinen kuntotila ja myös mahdollista olla saamatta joitakin kuntotilan lisämuutoksia koskevia hälytyksiä. Haluatko varmasti muuttaa tätä valintaa?
+Poista äänihälytykset
+Aktivoi äänihälytykset
+Virhe tapahtui säädettäessä äänitasoa.\nKiintolevyohjain tai sen ajuri eivät tue tätä toimintoa.
+Tosiaikaisen suorituskyvyn tarkkailu ei ole tuettu tällä levyllä.
+Huomaa: rekisteröimätön versio ei tallenna näiden valintojen muutoksia. Asetukset palautetaan oletusarvoihin, kun sovellus uudelleenkäynnistetään.
+Aktivoi attribuutti
+Toista äänihälytys
+Käytä PC:n kaiutinta
+Lähetä testi
+Viestin lähetys kohdetietokoneeseen onnistui.
+Virhe tapahtui operaation aikana. Tarkista verkkoyhteys ja kummankin tietokoneen viestintäpalvelun nykyinen tila.
+Ongelmat aiheuttivat äänihälytyksen
+Uudelleenaktivoi hälytykset
+ATA-ohjaustavu
+Kelvollinen
+Kelvoton
+ATA-tarkistearvo
+näytetyt tiedot eivät ehkä ole oikein.
+Testaa äänihälytys
+Luo pikakuvake tälle projektille työpöydälle
+Pikakuvakkeen luonti
+Tämän projektin pikakuvakkeen luonti työpöydälle onnistui.
+Virhe luotaessa pikakuvaketta tälle projektille.
+Rekisteröintitiedot ovat vanhentuneet. Ota yhteyttä tekijään lisenssin jatkamiseksi.
+Lähetä hiirinapsautukset tilaikkunan alla olevaan ikkunaan
+Näytä tiedot työpöydällä
+Lisenssin voimassaolo:
+Aina
+Vanhentunut
+Ei mitään
+Täysin läpinäkyvä tausta
+Integrointi
+Palvelu
+Salasana vaaditaan päätietoikkunan avaamiseen
+Salasana vaaditaan asetusikkunan avaamiseen tai sulkemaan Hard Disk Sentinel
+Kirjaudu ulos
+minuutin jälkeen
+Salasana:
+Kirjaudu ulos nyt
+Käytä palveluna
+Käytä sovelluksena
+Etäohjaus
+Aktivoi etäyhteys Hard Disk Sentinel -palvelimeen
+Palvelimen nimi tai IP-osoite:
+TCP-portti (oletus = 61210):
+Suojaus
+Virhe asennettaessa Hard Disk Sentinel -palvelua.
+Virhe käynnistettäessä Hard Disk Sentinel -palvelua.
+Virhe pysäytettäessä Hard Disk Sentinel -palvelua.
+Hard Disk Sentinel tallentaa nyt nykyiset asetukset ja suljetaan. Se käynnistetään uudelleen palveluna.
+Hard Disk Sentinel -palvelu tallentaa nyt nykyiset asetukset ja pysäytetään. Se käynnistetään uudelleen sovelluksena.
+Käyttövaltuutus vaaditaan
+Annettu salasana ei kelpaa. Ei ole mahdollista käyttää tätä toimintoa.
+Pysäyttääksesi Hard Disk Sentinel -palvelun käytä pikakuvaketta "Pysäytä palvelu" tai vaihda takaisin sovellusmuotoon Asetukset-ikkunan Integrointi-paneelissa ja sulje sovellus.
+Ei
+Korkea
+Maksimi
+Päivitys ei ole saatavissa, kun Hard Disk Sentinelia ajetaan palveluna. Vaihda takaisin sovellusmuotoon Integrointi-paneelissa ennen sovelluksen päivitystä uuteen versioon.
+Palvelumuoto
+Turvamuoto (poista käytöstä laitetunnistus)
+Hard Disk Sentinel -palvelua ei ole asennettu. Avaa Asetukset-ikkuna, valitse Integrointi-paneeli ja asenna Hard Disk Sentinel -palvelu.
+Hard Disk Sentinel -palvelu on jo käynnissä.
+Hard Disk Sentinel -palvelu ei ole käynnissä.
+Keskimääräinen siirtonopeus
+Keskimääräinen levyn aktiviteetti
+Toista testi
+Tietoja ei vielä saatavissa
+Hard Disk Sentinel -palvelu pysäytetty.\nHaluatko poistaa palvelun käytöstä ja käyttää ohjelmaa sovellusmuodossa?
+Microsoft Vista ja uudemmat käyttöjärjestelmät eivät salli palvelujen käyttää työpöytää.\n\nHard Disk Sentinel ajetaan näkymättä: sen ikkunaa ja kuvakkeita ei\nnäytetä eikä ole mahdollista päästä asetuksiin.\n\nPysäyttääksesi palvelun ja käyttääksesi ohjelmaa sovellusmuodossa\nvalitse pikakuvake "Pysäytä palvelu" Hard Disk Sentinel -ryhmästä.\n\nHaluatko varmasti jatkaa?
+Selvitä miten tämä arvo on laskettu
+Poista käytöstä tämä sovellus ajaaksesi asianmukaisin oikeuksin.
+Levykuvakkeen asetus:
+XP
+Vista
+Aloita napsauttamalla
+Kiintolevytesti
+Testioperaatio:
+Tila:
+Aikaa jäljellä arviolta:
+Virhe käynnistettäessä testi. Virhekoodi on:
+Ajetaan, ei löytynyt ongelmia
+Vaste:
+Aikaa kulunut:
+Tätä rekisteröintiavainta voi käyttää vain rekisteröitäessä STANDARD-versio.\nLataa ja asenna STANDARD-versio osoitteesta www.hdsentinel.com\nkäyttääksesi tätä rekisteröintiavainta.
+Tätä rekisteröintiavainta voi käyttää vain rekisteröitäessä PROFESSIONAL-versio.\nLataa ja asenna PROFESSIONAL-versio osoitteesta www.hdsentinel.com\nkäyttääksesi tätä rekisteröintiavainta.
+Käytä kynnyksen yksikkönä megatavua
+Vahvista:
+Kaksi salasanaa eivät ole samat.\nAnna sama salasana kahdesti vahvistaaksesi sen.
+Aktivoi WebTila
+Kysy salasanaa luodaksesi yhteyden
+HTTP-yhteyden portti
+Porttiosoite (>1023)
+Attribuuttikommentit
+Desimaalidatakentät
+Asema koetti tutkia ja uudelleenvarata datasektorit \1 kertaa. Tutkittu data-alue on täydellinen.
+Korvaa kiintolevy välittömästi.
+Raportin yksityiskohdat:
+Varmista / Palauta nykyiset asetukset
+Varmista asetukset
+Palauta asetukset
+Optinen asema
+Luo ja päivitä XML-tiedosto
+Kiintolevyn lämpötila-anturi on virheellinen. Mitattu lukema on:
+Hyväksy etäyhteydet palvelimesta
+Etäyhteyden portti
+Poista ilmoitusalueen kuplahälytykset
+Poista USB- ja SCSI-asemien tunnistus
+Lähetä
+Kommentit:
+Lähetä kehittäjälle
+Yhdyspalvelin - www.hdsentinel.com
+Lähetetään raporttia
+Raportin lähetys onnistui. \nKiitos tuestasi.
+Lähetä testiraportti kehittäjälle
+Luodaan raporttia
+Haluan saada vastauksen raportin arvioinnin jälkeen
+Tämä on bugiraportti
+Avaa HD Sentinelin pääikkuna
+Näkyvä
+Kiintolevyn koon yksikkö:
+Osiokoon yksikkö:
+CC (hiilikopio):
+BCC (piilokopio):
+Päivitä testiraportti
+(arvioitu)
+Arvioidaan aikaa, odota ... Nykyinen arvio ei ehkä ole tarkka.
+Etäpolku
+Keltainen lämpötaso saavutettu.
+Punainen lämpötaso saavutettu.
+Keltainen lämmön rajataso saavutettu.
+Punainen lämmön rajataso saavutettu.
+Raja:
+Lämpötila:
+Attribuuttia muutettu
+Tyhjää loki
+Tausta
+Aktivoi DynDNS-palvelu
+Aktivoi No-IP-palvelu
+Aktivoi mukautettu dynaaminen DNS -palvelu
+Säädä
+Käyttäjänimi
+Salasana
+Verkkotunnus (täydellinen)
+Täydellinen URL päivitykseen(%ip% vaihdettu nykyiseen IP:hen)
+Palvelimen viime vastaus:
+Gadget (vimpain)
+Aktivoi gadget
+Näytä ylätunniste
+Näytä levyn aktiviteetti
+Haluatko nyt testata asetuksia päivittämällä IP-osoitteen?
+Havaittujen ongelmien määrä on korkea seuraavilla attribuuteilla:
+Luku:
+Kirjoitus:
+Kaikki levyt
+Aktiviteettikuvake
+Näytä levyn kokonaisaktiviteetti yhdellä ilmoitusaluekuvakkeella
+(KORKEA sana)
+(KESKITASO sana)
+(MATALA sana)
+Virtatila:
+Aktiivinen
+Lepotilassa
+(alkaen \1)
+Järjestelmän toiminta-aika
+Järjestelmä toiminnassa alkaen
+Levyohjain
+Levyn sijainti
+Vieraile web-sivustollamme
+Ota yhteyttä
+Osta nyt
+Anna rekisteröintiavain
+Lista sisältää \1 kohdetta. Rekisteröi ohjelma nähdäksesi kaikki kohteet.
+CPU:n käyttöaste
+CPU
+Näennäismuisti
+Käytetty:
+Kiintolevy toimii PIO-moodissa, mikä heikentää suorituskykyä. On suositettavaa tarkistaa ja vaihtaa datakaapeli tai muokata asetuksia.
+Kiintolevy toimii UDMA 2 -moodissa (33 MB/s), mikä heikentää suorituskykyä. On suositettavaa käyttää 80 johtimen IDE-kaapelia, jos ohjain tukee korkeampia datansiirtoarvoja.
+Silicon Image (SiI) -ohjaimet eivät ehkä välitä täydellisiä tietoja kaikista liitetyistä levyistä. 
+Nykyinen levyohjain ei salli täydellistä itse levyn käyttöä kaikkien yksityiskohtien lukemiseksi. Tarkista onko saatavilla päivitetty ajuri.
+Tämä USB-tallennin ei tarjoa enempää tietoja itsestään. Kuitenkin sen ongelmia voi testata toiminnolla Levy -> Pintatesti.
+Tämä RAID-levypakka ei salli levy-yksityiskohtien käyttöä levypakassa. Kuitenkin sen ongelmia voi testata toiminnolla Levy -> Pintatesti.
+Käytä valikon "Raportti" valintaa "Lähetä testiraportti kehittäjälle" auttamaan meitä määrittämään, onko mahdollista paljastaa ja esittää lisätietoja.
+Vieraile sivuston www.hdsentinel.com osastoilla "Hardware" ja "Support -> FAQ" saadaksesi yksityiskohtaisia tietoja.
+Aktivoi
+Ylin lämpötila (koskaan mitattu):
+Alin lämpötila (koskaan mitattu):
+2 tuntia
+4 tuntia
+6 tuntia
+8 tuntia
+12 tuntia
+Varattu 1
+Varattu 2
+Keltainen lämpötilaraja saavutettu. Jos aseman lämpötila vielä nousee, on suositettavaa jos mahdollista käyttää kiintolevyn jäähdytintä (esim. tuuletinta tai passiivijäähdytintä).
+Valitse sivu "Kynnykset / Ilmoitusaluekuvake" säätääksesi kunto- ja lämpötilakynnykset keltaiselle ja punaiselle tasolle.
+Kriittinen
+On suositettavaa varmistaa välittömästi datahävikin estämiseksi.
+Pienet painikkeet
+Normaalit painikkeet
+Suuret painikkeet
+Suor.teho:
+Liittymä:
+Ilmoitus
+Hajahakutesti
+Testaa aseman hakuteho, melu ja lämpötila
+Hakuaika
+Minimi
+Maksimi
+Keskimäärin
+Testaus
+Kulunut
+Jäljellä
+Operaatiot
+Virheet
+Aloita testi
+Pysäytä testi
+Pikatesti
+Normaali testi
+Syvätesti
+Pitkä intensiivinen testi
+Mukautettu kesto
+Testin suoritusaika (HH:MM:SS): 
+Lukutesti
+KIRJOITUStesti
+Tätä toimintoa voi käyttää vain kerran rekisteröimättömässä versiossa.
+Haluatko nyt avata ohjelman websivun saadaksesi yksityiskohtaisia tietoja rekisteröinnistä?
+Haluatko varmasti pysäyttää tämän operaation?
+Tämä toiminto ei ole käytettävissä valitulla asemalla johtuen tämän ohjaimen ja asemien asetuksista.
+Hard Disk Sentinelin arviointiversio
+Hard Disk Sentinelin rekisteröity versio tarjoaa korkeimman tason datasuojauksen hälytyksin, levydiagnosoinnein, automaattivarmistuksin (vain PRO-versio), etäkäytöin ja muin toiminnoin joilla testata ja lisätä tallentimien suorituskykyä. \n\nTätä demoversiota voi käyttää 30 päivän ajan tärkeimpien toimintojen arviointiin ja todentamaan yhteensopivuus järjestelmän kanssa. Tämän kokeilukauden jälkeen sinun tulee päivittää rekisteröityyn versioon ostamalla lisenssi tai lopettaa ohjelman käyttö. \n\nRekisteröinnin edut:\n\n- korkeimman tason datasuojaus\n- nopeat, turvalliset ja joustavat maksutavat\n- välitön kaikkien toimintojen käyttö ja kaikkien ominaisuuksien lukitusten poisto\n- ilmainen tekninen tuki ja apu\n- elinikäinen lisenssi, ei kirjautumista tai uusiutuvia kustannuksia\n- ei rajoituksia ja häiritseviä ilmoituksia
+S.M.A.R.T. -siirtymä on säädetty tämän arvon laskemiseen käytetylle attribuutille
+Valitse ilmoitusaluekuvakkeen fontti
+Älä anna hidastaa levyjä (numerot pilkuin, esim. 1,2 tai * kaikki)
+Todenna online 
+Vertaa tämän laitteen S.M.A.R.T. -arvoja (saman mallin) toisiin nähdäksesi, ovatko attribuutit paremmat tai huonommat kuin keskiarvo
+Pintatesti
+Analysoi levyn pinta eri menetelmin ja testein
+Levyn pintakartta
+Lämpötila ja siirtonopeus
+Lohko
+Vaurioitunut
+Eteneminen
+Läpäisy
+Aika
+Noin
+sektoria
+Testi pysäytetty
+Ei voi lukita levyä muun käytön estämiseksi.\nHaluatko varmasti testata sen joka tapauksessa (EI suositeta)?
+Testi valmis
+Sijainti
+Peräkkäistesti
+Testaa lohkot alusta loppuun
+Satunnaistesti
+Testaa lohkot satunnaisjärjestyksessä
+Perhos(butterfly)testi
+Vaihteleva: testaa yhden lohkon alusta ja yhden lopusta
+Käänteinen peräkkäistesti
+Testaa lohkot lopusta alkuun
+Sektori
+Todenna virhe
+Tallenna levyn tiedot
+Lataa levyn tiedot
+Asetetaan alkuarvo ...
+Levyn sisällön tarkastaja
+Edellinen
+Seuraava
+Sektoriin ...
+Valitse (käyttöjärjestelmän hallinnoima) asema testattavaksi ja testausmenetelmä.\nLue yksityiskohtaiset tiedot huolella ennen testin aloittamista.\nNapsauttamalla Näytä ilmestyvät pinnan tarkat tiedot, avaa \1 tai katsele edellisen testin tuloksia.
+Lukutesti
+Lukee levyn pinnan todentaakseen, ovatko kaikki sektorit saavutettavissa ja luettavissa.\n\nTesti on turvallinen, se ei vaikuta tallennettuihin tietoihin.\n\nLevyongelmia voi jäädä piiloon ja paljastettuja seikkoja EI korjata (kuten tekee ScanDisk).
+KIRJOITUStesti
+Ylikirjoittaa levyn pinnan säädettävällä mallilla. Pakottaa analysoimaan kaikki heikot sektorit ja todentaa kaikki piilo-ongelmat ja korjaa ne uudelleenvaraamalla huonot sektorit (tämä on aseman uudistusta).\n\nMahdollistaa levyn paremman käytön, koska testin jälkeen käytetään erityisvarattua aluetta ongelmallisten sektorien sijaan.
+KIRJOITUS + luku -testi
+Ylikirjoittaa levyn pinnan säädettävällä mallilla ja lukee sitten uudelleen sektorien sisällöt todentaakseen, ovatko sektorit saavutettavissa ja yhtenäiset. Pakottaa analysoimaan kaikki heikot sektorit ja todentaa kaikki piilo-ongelmat ja korjaa ne uudelleenvaraamalla huonot sektorit (tämä on aseman uudistus).\n\nMahdollistaa levyn paremman käytön, koska testin jälkeen käytetään erityisvarattua aluetta ongelmallisten sektorien sijaan.
+Luku + KIRJOITUS + luku -testi (uudistaa data-alueen)
+Lukee tallennetun data joka lohkosta, kirjoittaa sisällöt uudelleen ja lopuksi lukee tiedot ja vertaa alkuperäisiin sisältöihin. Laajennetussa testissä käytetään lisäkirjoitussykliä ennen sisältöjen uudelleenkirjoitusta parantamaan virheenkorjauksen tehokkuutta (aseman uudistus).\n\nOperaatio on yleensä turvallinen tallennetuille tiedoille, mutta datan häviämistä voi tapahtua, ellei järjestelmä ole vakaa ja/tai lisänä on virtahäiriöitä, ylikellotus, muistin/virran tehonlähde/kaapeliongelmia ja muita tekijöitä.\n\nTestiä voi käyttää uudistamaan tallentimen data-alue ilman tarvetta täysin pyyhkiä, mutta on silti suositettavaa varmistaa tärkeä data ennen tätä testiä.
+Levyn pinnan uudelleenalustus
+Ylikirjoittaa levyn pinnan erityisellä alustusmallilla sektorien palauttamiseksi oletusarvoiseen (tyhjään) tilaan lukee uudelleen sektorien sisällöt todentaakseen, ovatko sektorit saavutettavissa ja yhtenäisiä. Pakottaa analysoimaan kaikki heikot sektorit ja todentaa kaikki piilo-ongelmat ja korjaa ne uudelleenvaraamalla huonot sektorit (tämä on aseman uudistus).\n\nMahdollistaa levyn paremman käytön, koska testin jälkeen käytetään erityisvarattua aluetta ongelmallisten sektorien sijaan.\nHyvin intensiivinen ja aikaavievä testi, etenkin jos taso (ylikirjoitussyklien määrä) on asetettu korkeampaan arvoon.\n\nTämän testin yksinkertaista versiota toisissa työkaluissa kutsutaan yleensä (virheellisesti) matalan tason alustukseksi.
+Sektorijärjestys
+Ei-tuhoava - turvallinen datalle
+Lukitse asema testin ajaksi (poista taltiot käytöstä)
+Toista testi
+kertaa
+Rajaa testaus tiettyihin datalohkoihin
+Ensimmäinen lohko:
+Viimeinen lohko:
+TUHOAVA - kaikki data poistetaan
+Tyhjä data (nollia)
+Satunnainen data
+Sektorimäärä
+Laajennettu luku-kirjoitus-luku -testi yhdessä lisäkirjoitusoperaation kanssa
+Pinnan uudelleenalustuksen taso
+Useimmiten ei-tuhoava (katso huomautukset ja Ohje)
+Tämä testi tuhoaa pysyvästi KAIKEN DATAN valitulta asemalta.\nToimintoa ei voi peruuttaa.\n\nHaluatko varmasti suorittaa tämän testin ja menettää levylle tallennetun KAIKEN DATAN?
+Tämä testi suorittaa KIRJOITUSoperaation valitulla asemalla.\nTesti sinänsä ei ole tuhoava, mutta datan häviämistä voi tapahtua.\n\nHaluatko varmasti suorittaa tämän testin?
+Testaa asetukset
+Napsauta pintakartalla tarkastaaksesi sektorien sisällöt.\n\nOikea napsautus avaa pikavalikon.
+Testi mittaa siirtoajan kaikille lohkoille paljastaakseen, mitkä pinnan alueet ovat hitaampia. Mitä hitaampi lohko on, sitä tummempi on assosioitu väri.
+Ohjelman kehittäjä ei anna takuuta tallennetulle datalle millään levyllä.
+Tämänhetkinen läpäisy
+Kaikki läpäisyt
+Ei voi suorittaa kirjoitustestiä järjestelmäasemassa, joka sisältää jonkin seuraavista kansioista.
+Ladatut tiedot kuuluvat eri asemalle.\nKuitenkin napsauttamalla hiirellä pintakartalla näytetään nykyisen aseman sektorit.
+Tällä hetkellä levyn takuukorvaus ei ole vielä mahdollinen, vain jos kunto alenee edelleen.
+Haluatko herättää myös kaikki lepotilassa olevat kiintolevyt?\nMuutoin vain aktiivisten levyjen tiedot päivitetään.
+Päivitä levyn tiedot
+Testityyppi:
+Datavaikutus:
+Kirjoitusmalli
+Nollaa lämpötilan maksimi- ja minimiarvot
+Maksimilämpötila (koko elinkaaren aikana):
+Näytä arvot
+Käytä SSL:ää
+SSD-ohjain
+SSD-levyn (solid state disk) kunto on TÄYDELLINEN. Ongelmallisia tai heikkoja sektoreita ei löytynyt. 
+Kunnon ilmaisevat erityiset SSD:n S.M.A.R.T. -attribuutit: 
+Levyn ominaisuuksien hallinta
+Virhe tapahtui lähetettäessä komentoa levylle.\nLevyn ohjain tai sen ajurit eivät tue tätä toimintoa.\n\nKomento ehkä saadaan suoritettua ajuripäivityksen jälkeen tai\nkäytettäessä eri käyttöjärjestelmää, eri levyohjainta\ntai tuettua USB:n koteloa / telakointiasemaa.
+Aktivointi ja säätö
+Passivointi
+Esikäynnistysviive (sekuntia):
+Lämpötilan mukautetut kynnykset
+Keltainen lämpötilaraja:
+Punainen lämpötilaraja:
+Passivoi valitun levyn mukautetut kynnykset
+Aseta mukautetut lämpötilakynnykset
+Modifioi mukautetut lämpötilakynnykset
+Mukautettu
+Yleinen
+Vain yhdellä levyllä voi olla mukautetut lämpötilakynnykset, jotka on säädetty tässä Hard Disk Sentinelin ilmaisversiossa.
+S.M.A.R.T. -ajuri puuttuu käytetystä Win9x/ME -järjestelmästä.\nHaluatko päivittää asetukset automaattisesti ja käynnistää tietokoneen nyt uudelleen?
+Lataa aktivoitu avaintiedosto
+NTFS-liitoskohdat
+Liitoskohta
+Huomaa: datasi ei ehkä ole täysin suojattu.
+Rajoitettuaikainen tarjous: Päivitä tänään ja säästä \1 lisenssimaksussa!
+(anna kuponkikoodi \1 turvallisessa online-rekisteröinnissä tai napsauta alla olevaa linkkiä)
+Odota \1 sekuntia ennen jatkamista ...
+Taltiotiedot
+Osiointitapa
+Aktiivinen
+Linjaus
+Siirtymän alku
+Pituus
+Kohdennuksen yksikkökoko
+Kohdennusyksikköjä kaikkiaan
+Vapaita kohdennusyksiköitä
+Käytettyjä kohdennusyksiköitä
+Taltiotyyppi
+Dynaaminen
+Perustyyppinen
+&Avaa offline-levyjen tila
+Valitse levyt valintaruuduilla niiden tilan tarkasteluun aivan kuten liitettyjen (online-) levyjen.
+Offline
+Valitse valintaruuduilla autenttiseen levyraporttiin sisällytettävät levyt.
+&Tallenna autenttinen levyraportti (HTML)
+&Todenna autenttinen levyraportti
+Valittu tiedosto ei ole autenttinen levyraportti.
+Autenttinen levyraportti todennettu kelvolliseksi.
+Autenttinen levyraportti on kelvoton tai vioittunut.
+Autenttinen levyraportti
+&Windowsin taltio/RAID -tiedot
+\1 virhettä tapahtui datan siirron aikana. Tämä voi viitata ongelmaan laite- tai data/virtakaapeliongelmaan. On suositettavaa tutkia ja korvata kaapelit jos mahdollista.
+\1 virhettä raportoitu laitteeseen kirjoituksen aikana.
+RAID-ohjaimen rajoitus voi estää levyn lisätietojen selvityksen. Tämä ei ole ohjelman Hard Disk Sentinelin rajoitus.
+Kirjaudu newsletteriin saadaksesi tietoja päivityksistä ja erityistarjouksista
+Valitse valikko Raportti -> Lähetä testiraportti kehittäjälle ja valitse Kirjaudu newsletteriin saadaksesi tietoja erityistarjouksista ja päivityksistä.
+Päivittäinen minimi
+Standardilaajuus
+SSD:n TRIM-ominaisuus on tuettu ja aktivoitu optimaaliselle suorituskyvylle.
+SSD:n TRIM-ominaisuus on tuettu muttei aktivoitu. On suositettavaa päivittää käyttöjärjestelmä, levyohjain tai sen ajuri suorituskyvyn parantamiseksi.
+Elinajan kirjoitusmäärä:
+Käynnistys/pysäytys -kokonaismäärä:
+Säädöt eivät tarjoa muita tietoja levyn tilasta. "Levy" -valikon toiminto "Pintatesti" voi kuitenkin tutkia levyn toimintakykyä, paljastaa ja korjata mahdollisia ongelmia.
+Nykyisen version käyttöaika päättynyt. Anna rekisteröintiavain jatkaaksesi ohjelman käyttöä.
+Loki ei sisällä merkintöjä.
+Vie siirtonopeusarvot
+Säädä asetus automaattisesti uudelleenkäynnistettäessä
+Lisätietoja:
+Napsauta lisätäksesi kommentin ...
+Kommentti
+Vaihda kansiota tallentaaksesi tilastot ja asetukset
+Lisenssivaroituksen toisinto
+Samaa rekisteröintikoodia on käytetty sekä asennettuun että siirrettävään Hard Disk Sentinel -versioon.\nKummankin version kaikkien ominaisuuksien käyttämiseksi niihin vaaditaan eri lisenssit.
+Status last updated:
+Online takuutarkistus
+Kopioi valittu arvo leikepöydälle
+Pinnan joidenkin alueiden käyttö testin aikana voi\nolla hitaampaa johtuen aktiivisesta käyttöjärjestelmästä ja\nsovelluksista. Tästä voi aiheutua tummempia vihreitä lohkoja.
+Nollaa työnkulun laskurit
+Haluatko tallentaa eri raportit valituista levyasemista?
+Aseman \2 havaittu kokonaiskapasiteetti (\1) ei ole oikein, kapasiteetin tulisi olla \3.
+Levyn nykyinen ohjain/ajuri/sovitin ja \1 eivät ehkä ole täysin yhteensopivat
+Aseman käyttö voi aiheuttaa tiedostojärjestelmän vioittumista ja/tai datan menetystä.
+On suositettavaa tarkistaa ja säätää asetuksia tai päivittää käyttöjärjestelmä, kiintolevyohjain ja/tai ajurit tämän laitteen käyttämiseksi turvallisesti.
+Laitekohtaiset tiedot
+Kiintolevyn ohjain tarjoaa vain yleisen itsetarkkailutilan (S.M.A.R.T.) vailla lisätietoja. 
+S.M.A.R.T. -tila on: 
+Aina päällimmäinen
+On tarpeen sulkea täysin valikosta Tiedosto -> Lopeta ja käynnistää uudelleen, jotta tämä muutos astuisi voimaan.
+Järjestelmän joutoaika
+Seuraava(t) virhe(et) havaittu:
+Kiintolevyn (RAID-)ohjaimen tarjoamat tilatiedot ja mahdolliset virheet. Nämä voivat poiketa fyysisen aseman tilasta.
+Automaattilähetyksen tila palvelimelle
+Järjestelmänhallinnan tiedot
+Tälle kiintolevylle luodut osiot, joilla on \1 -kokoiset fyysiset sektorit.
+mutta nykyisen fyysisen sektorin koko on \1.
+Kiintolevyn yhdistäminen toisin kuin nykyinen yhteys (eri kiintolevyohjaimin, USB-, eSATA-yhteyksin) voi aiheuttaa, että kaikista kansioista ja tiedostoista tulee käsiksipääsemättömiä.
+On suositettavaa yhdistää kiintolevy uudelleen samoin kuin aiemmin (mahdollisesti eri USB-sovitteella, kehyksellä, telakointiasemalla tai muulla tavalla) pääsemiseksi kaikkeen osion dataan - muutoin voi tapahtua datan katoamista.
+Selvitä tiedoston tiedot koskien sectoria
+Ei voi määrittää levyaseman rakennetta.
+Ei voi selvittää osion / loogisen aseman tietoja.
+Osiota ei määritetty tälle sektorille (varaamaton sectori).
+Tuntematon tiedosto
+Varaamaton sektori loogisessa asemassa \1 
+Attribuutit:
+Tiedoston sirpalemäärä:
+Selvitä tiedostojen tiedot koskien virheellisiä sektoreita 
+Selvitetään tiedostojen tietoja
+Selvitetään levyjen tietoja
+Viimeisimmät selvitetyt tiedot
+&Tiedostot virhekohdissa
+vuotta
+kuukautta
+Mukautetetut kuntokynnykset
+Keltainen kuntokynnys:
+Punainen kuntokynnys:
+Aseta mukautettu kynnys
+Muokkaa mukautettua kynnystä
+Kaksoisnapsauta säätääksesi mukautettuja kuntokynnyksiä
+Levyn liittämisen/poiston tapahtumaloki
+Loki näyttää kaikki asemat, jotka on liitetty ja poistettu Hard Disk Sentinelin aktiivisten jaksojen aikana ja näyttää levyn asetusten muutokset, kun ohjelmisto on ollut epäaktiivinen (selvitettyinä seuraavassa käynnistyksessä).
+Merkintöjen määrä:
+Päivämäärä ja aika
+Levyasema
+When inactive
+Liitetty
+Poistettu
+Kun kyseessä on äkillinen järjestelmän kaatuminen, uudelleenkäynnistyminen, sininen ruutu tai käsiksipääsemätön tiedosto/kansio, suositetaan tarkistamaan data- ja virtakaapelit, liitännät - ja mikäli mahdollista kokeilemaan eri kaapeleita estämään enemmät ongelmat.
+Suurin mahdollinen siirtonopeus
+Sovellettava siirtonopeus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DMA=DMA
+Ultra DMA=Ultra DMA
+S.M.A.R.T.=S.M.A.R.T.
+Security Mode=Turvamuoto
+Power Management=Virranhallinta
+Write Cache=Kirjoitusvälimuisti
+Host Protected Area=Isännän suojaama alue
+Advanced Power Management=Kehittynyt virranhallinta
+Advanced Power Management Level=Kehittyneen virranhallinnan taso
+Current APM Level=Nykyinen kehittyneen virranhallinnan taso
+Extended Power Management=Laajennettu virranhallinta
+APM01=Virrankulutusminimi valmiustilassa
+APM02=Virranhallinnan välitasot valmiustilassa
+APM80=Virrankulutusminimi ei-valmiustilassa
+APM81=Virranhallinnan välitasot ei-valmiustilassa
+APMFE=Suorituskyvyn ja virrankulutuksen maksimi
+FreeFall01=Alin herkkyys putoamistapauksissa
+FreeFall02=Tasapainotettu herkkyys putoamistapauksissa
+FreeFallFF=Ylin herkkyys putoamistapauksissa
+Current Sensitivity=Nykyinen herkkyys
+Power Up In Standby=Käynnistä valmiustilassa
+48-bit LBA Addressing=48-bittinen LBA-osoitteenmuodostus
+Device Configuration Overlay=Laiteasetusten kattavuus
+Read/Write DMA Queue=Luku/Kirjoitus DMA-jono
+Native Command Queuing=Kiintolevyn suorituskyvyn optimointi (NCQ)
+Read Ahead Buffer=Ennakoiva puskuri
+Maximum Multiword DMA Mode=Maximum Multiword DMA -moodi
+Active Multiword DMA Mode=Active Multiword DMA -moodi
+IORDY Support=IORDY-tuki
+Maximum sectors transferred on R/W multiple=Maksimimäärä sektoreita siirretty monikerros-R/W:lle
+Minimum multiword DMA transfer time=Multiword DMA:n siirtoajan minimi
+Recommended multiword DMA transfer time=Suositettu Multiword DMA:n siirtoaika
+Minimum PIO transfer time without IORDY=PIO:n minimisiirtoaika poislukien IORDY
+Minimum PIO transfer time with IORDY=PIO:n minimisiirtoaika mukaan lukien IORDY
+Security Erase=Turvallinen pyyhintä
+Security Erase Time=Turvallinen pyyhintäaika
+Security Enhanced Erase Feature=Turvallinen parannettu pyyhintätoiminto
+Security Enhanced Erase Time=Turvallinen parannettu pyyhintäaika
+Security Enabled=Turvallisuus aktivoitu
+Security Locked=Turvallisuus lukittu
+Security Frozen=Turvallisuus jäädytetty
+Security Counter Expired=Turvalaskuri umpeutunut
+Security Level=Turvataso
+Serial ATA Features=Serial ATA -ominaisuudet
+Interface=Liittymä
+S-ATA Compliance=S-ATA -yhteensopivuus
+S-ATA I Signaling Speed (1.5 Gps)=S-ATA I -viestintänopeus (1.5 Gps)
+S-ATA II Signaling Speed (3 Gps)=S-ATA II -viestintänopeus (3 Gps)
+Receipt Of Power Management Requests From Host=Virranhallintakyselyjen kuittaus isännältä
+PHY Event Counters=PHY -tapahtumalaskurit
+Non-Zero Buffer Offsets In DMA Setup FIS=Ei-nolla -puskurin siirtymät DMA Setup FIS:ssä
+DMA Setup Auto-Activate Optimization=DMA Setupin automaattiaktivoinnin optimointi
+Device Initiating Interface Power Management=Laiteperusteinen liitännän virranhallinta
+In-Order Data Delivery=Järjestyksellinen tiedonsiirto
+Asynchronous Notification=Tahdistamaton tiedonsiirto
+Software Settings Preservation=Ohjelman asetusten säilytys
+Queue Length=Jonon pituus
+Disk Family=Levyperhe
+Form Factor=Muotokerroin
+Capacity=Kapasiteetti
+Number Of Disks=Levyjen määrä
+Number Of Heads=Päiden määrä
+Rotational Speed=Pyörintänopeus
+RPM=RPM
+Rotation Time=Pyörähdysaika
+Average Rotational Latency=Keskimääräinen pyörähdysviive
+Disk Interface=Levyn liitäntä
+Buffer-Host Max. Rate=Puskuri-Isäntä maksimiarvo
+Drive Ready Time (typical)=Aseman suoritusvalmiusaika (tyypillinen)
+Average Seek Time=Keskimääräinen hakuaika
+Track To Track Seek Time=Uralta uralle -hakuaika
+Full Stroke Seek Time=Koko levyn hakuaika
+Width=Leveys
+Depth=Syvyys
+Height=Korkeus
+Weight=Paino
+grams=grammaa
+pounds=naulaa
+Acoustic=Akustinen
+Idle=Toimeton
+Required power for spinup=Kiihdytyksen tehontarve
+Power required (seek)=Tehontarve (haku)
+Power required (idle)=Tehontarve (toimeton)
+Power required (standby)=Tehontarve (valmiustila)
+Manufacturer=Valmistaja
+Manufacturer Website=Valmistajan websivusto
+; lista SMART-ominaisuuksista
+S.M.A.R.T. Details=S.M.A.R.T. -yksityiskohdat
+Off-line data collection=Offline-datakoosteen tila
+OFF00=Ei koskaan käynnistetty
+OFF02=Kunnossaolo todennettu
+OFF03=Aktiivisessa käytössä
+OFF04=Keskeyttänyt isännältä tullut keskeytyskomento
+OFF05=Pysäyttänyt isännältä tullut keskeytyskomento
+OFF06=Pysäyttänyt laite kohtalokkaan virheen takia
+Self test execution status=Itsetestin suorituksen tila
+SET00a=Kunnossaolo todennettu
+SET00b=Ei koskaan käynnistetty
+SET01=Pysäyttänyt isäntä
+SET02=Keskeyttänyt isäntä laite/ohjelma-resetoinnilla
+SET03=Kohtalokas/Tuntematon virhe tapahtui testin aikana
+SET04=Testi epäonnistunut tuntemattomasta syystä
+SET05=Testi epäonnistunut sähköhäiriön takia
+SET06=Testi epäonnistunut Servo/haku -syistä
+SET07=Testi epäonnistunut lukusyistä
+SET08=Testi epäonnistunut ja epäillään käsittelyvauriota
+SET15=Testi etenee
+SETCO=valmis
+Total time to complete off-line data collection=Kokonaisaika offline-datakoosteen valmistumiseen
+Execute off-line immediate=Suorita offline välittömästi
+Abort/restart offline by host=Keskeytä/uudelleenkäynnistä offline Isännän välityksellä
+Off-line read scanning=Offline-lukuskannaus
+Short Self-test=Lyhyt itsetesti
+Extended Self-test=Laajennettu itsetesti
+Selective Self-test=Valikoiva itsetesti
+Conveyance self-test=Tiedonsiirron itsetesti
+Save data before/after power saving mode=Tallenna data ennen/jälkeen virransäästötilan
+Enable/Disable attribute autosave=Aktivoi/Poista attribuutin automaattitallennus
+Error logging capability=Virheenkirjauskyky
+Short Self-test Estimated Time=Lyhyen itsetestin arvioitu aika
+Extended Self-test Estimated Time=Laajennetun itsetestin arvioitu aika
+Last Short Self-test Result=Viime lyhyen itsetestin tulos
+Last Short Self-test Date=Viime lyhyen itsetestin päiväys
+Last Short Self-test Duration=Viime lyhyen itsetestin kesto
+Last Extended Self-test Result=Viime laajennetun itsetestin tulos
+Last Extended Self-test Date=Viime laajennetun itsetestin päiväys
+Last Extended Self-test Duration=Viime laajennetun itsetestin kesto
+Last Conveyance Self-test Result=Viime tiedonsiirron itsetestin tulos
+Last Conveyance Self-test Date=Viime tiedonsiirron itsetestin päiväys
+Last Conveyance Self-test Duration=Viime tiedonsiirron itsetestin kesto
+NOP Command=NOP-komento
+Trusted Computing=Luotettava tietokonevalmistaja
+64-bit World Wide ID=64-bit World Wide ID
+Streaming=Suoratoisto
+Media Card Pass Through=Media Card Pass Through
+General Purpose Logging=Yleiskirjautuminen
+Error Logging=Virhe kirjautuessa
+CFA Feature Set=CFA-toiminnon asetukset
+Long Physical Sectors=Pitkät fyysiset sektorit
+Long Logical Sectors=Pitkät loogiset sektorit
+Write-Read-Verify=Kirjoitus-Luku-Todennus
+NV Cache Feature=NV-välimuistitoiminto
+NV Cache Power Mode=NV-välimuistin virtamoodi
+
+# added 4 Nov 2008 
+Transport Version=Kuljetusversio
+NV Cache Size=NV-välimuistin koko
+Free-fall Control=Putoamiskontrolli
+Free-fall Control Sensitivity=Putoamiskontrollin herkkyys
+Non-rotating Media (SSD)=Ei-pyörivä media (SSD)
+Nominal Media Rotation Rate=Nimellinen median pyörintänopeus
+S-ATA Gen3 Signaling Speed (6 Gps)=S-ATA Gen3 -viestintänopeus (6 Gps)
+
+# added 19 Jun 2009
+CFast Device=CFast-laite
+SSD Features=SSD-toiminnot
+Data Set Management=Data-aineiston hallinta
+TRIM Command=TRIM-komento
+Deterministic Read After TRIM=Deterministinen luku TRIM:n jälkeen
+
+Operating System TRIM Function=Käyttöjärjestelmän TRIM-toiminto
+
+# added 3 Oct 2011
+
+Self-Test Results=Itsetestin tulokset
+SST05=Testin ensimmäinen segmentti epäonnistui
+SST06=Testin toinen segmentti epäonnistui
+SST07=Itsetesti epäonnistui testisegmentissä
+SSTN=Itsetestin segmentti
+SSTN0=Yhdenkään segmentin ID ei saatavilla
+SSTH=Virta tunneissa
+SSTL=Virheellinen osoite (LBA)
+SSHL=Kiintolevy raportoi seuraavista ongelmista:
+
+
+SA1=Virheitä tapahtui luettaessa raw-dataa levyltä\Viittaa ongelmaan levyn pinnassa tai luku/kirjoituspäissä.
+SA2=Kiintolevyn yleinen suorituskyky\Viittaa ongelmaan moottorin, servon tai laakerien kanssa.
+SA3=Levyasema tarvitsee aikaa kiihdyttää täyteen kierrosnopeuteen\Viittaa ongelmaan moottorin tai laakerien kanssa.
+SA4=Levyaseman käynnistys/pysäytyssyklien määrä\Tämä arvo ei suoraan osoita aseman kuntoa.
+SA5=Erityisvaratulle alueelle siirrettyjen sektorien määrä\Viittaa ongelmaan levyn pinnan tai luku/kirjoituspäiden kanssa.
+SA6=Kaistan vara luettaessa dataa\Tämän attribuutin tarkkaa toimintoa ei ole määritetty.
+SA7=Luku/kirjoituspäiden sijoitusvirheiden määrä\Viittaa ongelmaan servon tai pään kanssa. Korkea lämpötila voi myös aiheuttaa tämän ongelman.
+SA8=Päiden hakutoimintojen keskimääräinen aika\Viittaa ongelmaan servon kanssa.
+SA9=Aseman virran päälläolon kokonaisaika\Mittausyksikkö riippuu valmistajasta.
+SA10=Pyörimisyritysten määrä\Viittaa ongelmaan moottorin, laakerien tai virtalähteen kanssa.
+SA11=Aseman kalibrointiyritysten määrä\Viittaa ongelmaan moottorin, laakerien tai virtalähteen kanssa.
+SA12=Täysien virta päälle/pois-syklien määrä\Tämä arvo ei suoraan osoita aseman kuntoa.
+SA13=Ohjelman lukuvirheiden määrä\Korjauskelvottomien lukuvirheiden määrä.
+SA184=Pariteettivirheiden määrä siirrettäessä RAM-välimuistin ja isännän välillä.
+SA187=Virheet joita ei voitu korjata käytettäessä laitteiston virheenkorjausmenetelmiä.
+SA187MTRON=Pyyhkiytyneiden virtuaalilohkojen määrä\Viittaa tallentimen kulumiseen.
+SA188=HDD:n aikakatkaisusta johtuvien pysäytettyjen operaatioiden määrä. Nollaa suurempi arvo voi viitata virtalähde- tai datakaapeliliitosongelmiin.
+SA189=Epäturvallisten kirjoitusoperaatioiden määrä pään normaalin liikkumisalueen ulkopuolella.
+SA190=Ilmavirran lämpötila\Kiintolevyn kotelon sisäilman lämpötila.
+SA191=Mekaanisten tärähdysvirheiden määrä\Tärinästä tai värinästä johtuvien virheiden määrä.
+SA192=Virran katkaisusyklien määrä\Tämä arvo ei suoraan osoita aseman kuntoa.
+SA193=Pään liike/laskeutumissyklien määrä\Pään laskeutumisasemaan siirtymisistä johtuvien syklien määrä.
+SA194=Levyn lämpötila\Kiintolevyn kotelon sisälämpötila.
+SA195=Korjattavissa olleiden virheiden määrä\Sisäisen virheiden korjausmekanismin korjaamien virheiden määrä.
+SA196=Sektorien uudelleenmääritysoperaatioiden määrä\Kaikkien (onnistuneiden ja epäonnistuneiden) uudelleenmääritysoperaatioiden määrä.
+SA197=Epävakaiden sektorien määrä\Nämä käsiteltävät sektorit voidaan uudelleenmäärittää erityisvaratulle alueelle.
+SA198=Luettaessa/kirjoitettaessa havaittujen korjauskelvottomien virheiden määrä\Viittaa ongelmaan levyn pinnassa tai luku/kirjoituspäissä.
+SA199=Virheiden määrä siirrettäessä dataa levyn ja isännän välillä\Viittaa ongelmaan virtalähteen tai datakaapelin kanssa.
+SA200=Raw-dataa levylle kirjoitettaessa sattuneet virheet\Viittaa ongelmaan levyn pinnassa tai luku/kirjoituspäissä.
+SA201=Ohjelman lukuvirheiden määrä\Korjauskelvottomien lukuvirheiden määrä.
+SA202=Datan osoitemerkintävirheiden määrä\Virheellisten tai kelpaamattomien osoitemerkintöjen määrä.
+SA203=Datan korjausvirheiden määrä\Virheitä korjattaessa havaittu kelpaamaton virheiden tarkiste.
+SA204=Korjattujen datavirheiden määrä\Sisäisen virheiden korjausmekanismin korjaamat virheet.
+SA205=Lämpöongelmien määrä\Korkean lämpötilan aiheuttamien ongelmien kokonaismäärä.
+SA206=Pään liikkeen korkeus\Levypäiden korkeus levyn pinnan yläpuolella.
+SA207=Virtateho kiihdytettäessä\Aseman kiihdytykseen tarvittava virta.
+SA208=Kiihdytykseen tarvittavien syklien määrä\Yritysten määrä kiihdytettäessä johtuen saatavissa olevan virran heikkoudesta.
+SA209=Aseman suorituskyky offline-operaatioiden aikana\Aseman hakuteho sisäisten itsetestien aikana.
+SA211=Kirjoitusoperaatioiden aikana havaittu värinä.
+SA212=Kirjoitusoperaatioiden aikana havaittu tärinä.
+SA220=Levyn etäisyys levyakseliin nähden on muuttunut\Virheellinen levyn pyörintä voi johtua mekaanisesta tärähdyksestä tai korkeasta lämpötilasta.
+SA221=Mekaanisten virheiden määrä\Tärinästä tai värinästä johtuvien virheiden määrä.
+SA222=Virran päälläolon tuntimäärä\Tämä arvo kasvaa jatkuvasti (kerran joka tunti).
+SA223=Pään liike/laskeutumisoperaatioiden määrä\Aseman pään data-alueelle siirtymisten/jättämisten määrä.
+SA224=Mekaanisen hankauksen aste\Mekaanisten osien välisen hankauksen aste. Viittaa ongelmaan aseman mekaanisessa alijärjestelmässä.
+SA226=Päiden liikkeessäolon kokonaisaika\Aika jolloin luku/kirjoituspäät ovat data-alueella.
+SA227=Vääntömomentin kasvun aste\Vääntömomentin kasvu kiintolevyn kiihdytysoperaation aikana.
+SA228=Virran päältämenosyklien määrä\Virtakatkoista johtuneiden pään vetäytymiskertojen määrä.
+SA230=Pään sijoittumisten vaihteluväli\Pään liike-etäisyydet operaatioiden välillä.
+SA231=Levyn lämpötila\Kiintolevyn kotelon sisälämpötila.
+SA240=Pään sijoittumisten tuntimäärä\Aseman päiden sijoittumisiin kulunut aika.
+SA250=Yritysten määrä lukuoperaatioiden aikana\Havaittujen virheiden määrä luettaessa sektoria levyn pinnasta.
+SA254=Kiihtyvyysmittarin anturin havaitsemien vapaiden putoamistapahtumien määrä.
+SA255=Valmistakohtainen\Tämän attribuutin toiminto ja arvo ovat valmistajakohtaiset.
+
+SC01=Puskurin yli/alivuotolaskureita
+SC02_0000=Ilman oleellista viivettä korjattuja kirjoitusvirheitä
+SC02_0001=Mahdollisin viivein korjattuja kirjoitusvirheitä
+SC02_0002=Yhteensä kirjoitusvirheitä
+SC02_0003=Yhteensä korjattuja kirjoitusvirheitä
+SC02_0004=Yhteensä algoritmin korjaamia kirjoitusvirheitä
+SC02_0005=Yhteensä kirjoitettuja tavuja
+SC02_0006=Yhteensä korjaamattomia kirjoitusvirheitä
+SC03_0000=ECC-laitemenetelmän korjaamia lukuvirheitä
+SC03_0001=Mahdollisin viivein korjattuja lukuvirheitä
+SC03_0002=Yhteensä lukuvirheitä
+SC03_0003=Yhteensä korjattuja lukuvirheitä
+SC03_0004=Yhteensä algoritmin korjaamia lukuvirheitä
+SC03_0005=Yhteensä luettuja tavuja
+SC03_0006=Yhteensä korjaamattomia lukuvirheitä
+SC04_0000=ECC-laitemenetelmän korjaamia read reverse -lukuvirheitä
+SC04_0001=Mahdollisin viivein korjattuja read reverse -lukuvirheitä
+SC04_0002=Yhteensä read reverse -lukuvirheitä
+SC04_0003=Yhteensä korjattuja read reverse -lukuvirheitä
+SC04_0004=Yhteensä algoritmin korjaamia read reverse -lukuvirheitä
+SC04_0005=Yhteensä read reverse -tavuja
+SC04_0006=Yhteensä korjaamattomia read reverse -virheitä
+SC05_0000=Todenna ilman oleellista viivettä korjatut virheet
+SC05_0001=Todenna mahdollisin viivein korjatut virheet
+SC05_0002=Yhteensä todennusvirheitä
+SC05_0003=Yhteensä korjattuja todennusvirheitä
+SC05_0004=Yhteensä algoritmin korjaamia todennusvirheitä
+SC05_0005=Yhteensä todennettuja tavuja
+SC05_0006=Yhteensä korjaamattomia todennusvirheitä
+SC06_0000=Ei-keskitason virheitä
+SC07=Viime virhetapahtuma
+SC0B=Viime viivästynyt virhe tai tahdistamaton tapahtuma
+SC0D_0000=Lämpötila
+SC0D_0001=Vertailulämpötila
+SC0E_0001=Valmistuspäiväys (vuosi/viikko)
+SC0E_0002=Käyttöönottopäiväys
+SC0E_0003=Määritetty syklimäärä laitteen elinaikana
+SC0E_0004=Kertynyt start-stop -syklejä
+SC0F=Sovellusavustajan parametrien data
+SC10=Itsetestien tulosloki
+SC18=Protokollakohtainen porttiloki
+SC37_0000=Initiaattorille lähetettyjä lohkoja
+SC37_0001=Initiaattorilta vastaanotettuja lohkoja
+SC37_0002=Välimuistista luettuja ja initiaattorille lähetettyjä lohkoja
+SC37_0003=Segmentin kokoa pienempiä I/O-komentoja
+SC37_0004=Segmentin kokoa suurempia I/O-komentoja
+SC3E_0000=Virran päälläoloaika
+SC3E_8000=Virran päälläoloaika
+SC3E_0008=Minuutteja jäljellä ennen seuraavaa sisäistä testiä
+
+## added 13 May 2015 ##
+
+Motherboard=Emolevy
+Product=Tuote
+Asset Tag=Tunnistetarra
+Memory Module=Muistimoduuli
+Chassis=Runko
+
+
+## added 22 Feb 2017 ##
+
+Disk repair=Levyn korjaus
+Repair=Korjaus
+Repair successful=Korjaus onnistui
+Repair failed=Korjaus epäonnistui
+\1 sector(s) successfully repaired.=\1 sektorin korjaus onnistui.
+read test with sector repair=lukutesti sektorikorjauksin
+RepairDesc=Lukee levyn pinnan todentaen, ovatko kaikki sektorit lukukelpoiset, ja pakottaa levyaseman korjaamaan kaikki ongelmalliset (epävakaat, heikot) sektorit: palauttaa tilan hyväksi tai uudelleenvaraa (uudelleensijoittaa varatulta alueelta), jos on tarpeen estää alkuperäisen sektorin jatkokäyttö.\n\nTesti on turvallinen tallennetulle datalle ja vioittuneet tiedostot tulevat lukukelpoisiksi, tiedosto-osaset vioittuneilta sektoreilta voivat kuitenkin olla viallisia. Korjattujen sektoreiden tiedosto(t) luetteloidaan, kun testi on valmis.\n\nTesti käy parhaiten korjaamaan asemia, joissa on heikkoja sektoreita ilman tarvetta täyteen varmuuskopiointiin (ja levyn pintatestin uudelleenalustukseen), ja toimii myös sekä järjestelmä- että toissijaisilla asemilla.
+Multiple disk drives=Useita levyasemia
+\1 drive(s) selected=\1 asema(a) valittu
+Select disk drive(s) to be tested=Valitse testattava(t) levyasema(t)
+Are you sure you want to perform disk testing on multiple disk drives?=Haluatko varmasti suorittaa levytestin useilla levyasemilla?
+Do you want to EXLCLUDE the system drive and test only additional drive(s)?=Haluatko POISSULKEA järjestelmäaseman ja testata vain lisäasemat?
+Byte / byte sequence=Tavu / tavujärjestys
+Maximum try count=Maksimi yritysmäärä
+Add to Windows event log=Lisää Windowsin tapahtumalokiin
+Provide status information by WMI=Luo tilatiedot WMI:llä
+Automatic detection based on disk utilization=Automaattinen levyn käyttöön perustuva selvitys
+Automatically save disk test results to folder=Tallenna levytestin tulokset automaattisesti kansioon
+Selected disk only=Vain valittu levy
+Please verify your firewall settings and make sure the software can access the activation server and try again later.\n\nAlternatively, you may use the Registration And Activation By E-mail button to activate by e-mail.=Todenna palomuurisi asetukset ja varmistu, että ohjelmistolla on pääsy aktivointipalvelimeen, ja yritä myöhemmin uudelleen.\n\nVaihtoehtoisesti voit käyttää painiketta Rekisteröinti ja aktivointi meilitse aktivoidaksesi meilitse.
+Control device-specific detection=Kontrolloi laitekohtaista selvitystä
+Select device type to detect status and health information by the appropriate detection method.=Valitse laitetyyppi selvittääksesi tila- ja kuntotiedot sopivalla selvitysmenetelmällä.
+DeviceSpecificDesc=Hard Disk Sentinel tallentaa flag-tiedoston (nollatavut, käyttämättä levytilaa) laitteeseen tallettaakseen valitun laitetyypin. Sitä käytetään peräkkäisissä selvityksissä, kunnes laite on täysin pyyhitty / alustettu, kun on tarpeen valita uudelleen laitetyyppi.
+Note=Huomaa
+Complete erase / re-format does not reset the health and statistics.=Täydellinen pyyhintä / uudelleenalustus ei resetoi kuntoa ja tilastoja.
+Selecting improper device type may cause unnecessary wear to flash-based device and may result in data corruption.=Sopimattoman laitteen valinta voi aiheuttaa tarpeetonta rasitusta flash-pohjaiselle laitteelle ja voi johtaa datan vioittumiseen.
+Auto Detect=Automaattinen selvitys
+Part number(s)=Osanumero(t)
+Device type detection successfully completed.=Laitetyypin selvitys onnistui.
+The device does not respond to detection, further status information cannot be detected.=Laite ei vastaa selvitykseen, lisätietoja tilasta ei voi selvittää.
+Running=Käynnissä
+Inactive=Epäaktiivinen
+without monitoring=ilman tarkkailua
+
+
+## added 18 Dec 2017 ##
+
+Monitor Windows Event Log for problems related to disks and storage=Tarkkaile Windowsin tapahtumalokia liittyen levyihin ja tallennukseen.
+Configure NAS Disk Monitoring=Määritä NAS-levyntarkkailu
+Specify Status Source(s) to monitor Network Attached Storage (NAS) disk drives.=Määritä tilalähteet tarkkaillaksesi verkkoon liitettyjä tallentavia (Network Attached Storage (NAS)) levyasemia.
+Status Source files contain complete status of hard disk drives, SSDs, storage devices and Hard Disk Sentinel reads them to show the appropriate disk drives like if they would be connected directly.=Tilalähdetiedostot sisältävät kiintolevyasemien, SSD:iden sekä tallentimien täydellisen tilan ja Hard Disk Sentinel lukee ne näyttääkseen asianmukaiset levyasemat, kuten yhdistettäisiinkö ne suoraan.
+Status Source files saved and updated on the NAS device, created by (for example) Hard Disk Sentinel Linux version.=NAS-laitteeseen tallennetut ja päivitetyt tilalähdetiedostot, jotka on luonut (esim.) Hard Disk Sentinelin Linux-versio.
+The Auto Detect function automatically detects possible Status Source files (HDSReport.html) on available network drives.=Automaattiselvitystoiminto selvittää automaattisesti mahdolliset tilalähdetiedostot (HDSReport.html) käytettävissä olevissa verkkoasemissa.
+Status Source=Tilalähde
+Auto Detect=Selvitä automaattisesti
+&Browse=&Selaa
+Add &URL=Lisää &URL
+&Edit=&Muokkaa
+&Delete=&Poista
+&Test=&Testaa
+Status source files=Tilalähdetiedostot
+HPA Security Extensions=HPA-turvalaajennukset
+Service Interrupt=Palvelun keskeytys
+IDLE IMMEDIATE command with UNLOAD feature=DEAKTIVOI VÄLITTÖMÄSTI käsky johon liittyy MUISTISTAPOISTO-ominaisuus
+Nominal Form Factor=Nimellinen muototekijä
+Additional Product Identifier=Tuotteen lisätunnus
+Read Zeroes After TRIM=Lue TRIM:in jälkeiset nollat
+Device Encrypts All User Data=Laite salaa kaiken käyttäjädatan
+Sanitize=Puhdista
+Overwrite=Ylikirjoita
+Crypto Scramble=Salauksen sekoitus
+Block Erase=Torju poisto
+Sanitize Antifreeze Lock=Poista pysähtymisen eston lukitus
+ACS-3 Commands Allowed By Sanitize=Puhdistuksen sallimat ACS-3 -käskyt
+NCQ Streaming=NCQ-virtautus
+NCQ Autosense=NCQ-AutoSense
+Automatic Partial to Slumber Translations=Automaattiset translaatiot osittaisista lepotilaisiin
+Rebuild Assist=Uudelleenmuodostusapu
+Hybrid Information=Hybriditiedot
+Device Sleep (DevSleep)=Laitteen lepotila (DevSleep)
+DevSleep to ReducedPwrState=DevSleep -> ReducedPwrState
+Recently the following entries added to System Event Log:=Seuraavat merkinnät lisätty hiljattain järjestelmän tapahtumalokiin:
+errors=virhettä
+most recent=viimeisimmät
+warnings=varoitusta
+The following function can be used to improve the situation:=Seuraavaa toimintoa voi käyttää parantamaan tilannetta:
+Certain detection functions to access disk status disabled.=Tietyt toiminnot päästä selvittämään levyn tila deaktivoitu.
+Please change the following option:=Vaihda seuraava valinta:
+
+## added 28 Jun 2018 ##
+
+Do you want to update now?=Haluatko päivittää nyt?
+Update not selected.=Päivitystä ei valittu.
+Controlled Folder Access feature of Windows Defender prevents accessing disk status information.=Windows Defenderin hallittu kansion käyttö -ominaisuus estää levyn tilan tietojen käytön.
+Do you allow Hard Disk Sentinel to detect and diagnose disk status by adding to the list of allowed software (recommended) ?=Sallitko Hard Disk Sentinelin selvittää ja diagnosoida levyn tilan lisäämällä sallittujen ohjelmistojen listaan (suositetaan)?
+Note: without this permission, unstable operation and limited functionality will likely occur.=Huomaa: ilman tätä lupaa ilmenee luultavasti epävakaata toimintoa ja rajoittunutta toimivuutta.
+Disk Access Blocked=Levyn käyttö torjuttu
+
+## added 22 Jan 2020 ##
+
+NVMe Namespace Information=NVMe-nimitilan tiedot
+Total Sectors=Sektoreita yhteensä
+Active LBA Format Index=Aktiivisen LBA-formaatin indeksi
+LBA Formats Supported=LBA-formaatit tuettu
+LBA Format List=LBA-formaattiluettelo
+Best=Paras
+Better=Parempi
+Good=Hyvä
+Degraded=Alentunut
+Zoned Capabilities=Hajautetut ominaisuudet
+SCT Command Transport=SCT-komennon siirto
+SCT Error Recovery Control=SCT-virheestä palautumisen hallinta
+
+## added 13 Oct 2020 ##
+
+Include problem overview in alerts=Sisällytä ongelmakatsaus hälytyksiin
+Alert about problematic drive(s) only=Hälytä vain ongelmallisista asemista
+
+## added 15 Feb 2022 ##
+
+Change(s) since \1=Muutoksia alkaen \1
+Timestamp=Aikaleima
+No entries found=Merkintöjä ei löytynyt
+Error log=Virheloki
+No error information recorded=Virhetietoja ei tallennettu
+The list automatically cleared by the controller on power cycle and reset=Virtasyklin ja resetoinnin kontrolleri tyhjentänyt luettelon automaattisesti
+Depending on the configuration, the test duration may be different than estimated.=Asetuksista riippuen testin kesto voi poiketa arviosta.
+The NVMe controller driver prevents using test commands too frequently. Please try again later.=NVMe-kontrollerin ajuri estää testikomentojen käytön liian usein. Yritä myöhemmin uudelleen.
+
+No device self-test operation in progress=Mitään laitteen itsetestitoimintoa ei käynnissä
+Aborted by command=Keskeytynyt komennosta
+Aborted by controller reset=Keskeytynyt kontrollerin resetoinnista
+Aborted due to removal of namespace=Keskeytynyt johtuen nimitilan poistosta
+Aborted due to Format NVM command=Keskeytynyt johtuen Alusta NVM -komennosta
+Fatal error or unknown test error=Kohtalokas virhe tai tuntematon testivirhe
+Failed in an unknown test segment=Epäonnistunut tuntemattomassa testisegmenttissä
+Failed in one or more test segment(s)=Epäonnistunut yhdessä tai useammassa testisegmentissä(s)
+Aborted for unknown reason=Keskeytynyt tuntemattomasta syystä
+No self-test information recorded=Mitään itsetestin tietoja ei tallennettu
+
+Repaired=Korjattu
+Failed=Epäonnistunut
+Quick Fix=Pikakorjaus
+QuickFixDesc=Todenna millä levyaseman alueilla on ilmoitettu ongelmista ja kirjoitettu hiljattain, sitten diagnosoi ja korjaa erityisesti ne (ja läheiset) sektorit ja kriittiset järjestelmäalueet. Testi pakottaa levyaseman korjaamaan kaikki ongelmalliset (avoimet, heikot) sektorit: palauta tila hyväksi tai  kohdenna uudelleen (korvaa vara-alueelta), jos tarpeen estää alkuperäissektorin jatkokäyttö.\n\nToisin kuin täysi skannaus, tämä testi ei pysty löytämään ja korjaamaan kaikkia mahdollisia ongelmia, joten se sopii parhaiten levyasemille, joilla on suhteellisen vähän ongelmia ja korkea kuntoarvo valmiina korjaamaan heikkoja sektoreita ilman tarvetta täydelliseen varmuuskopiointiin (ja uudelleenalustuspintatestiin).\n\nTestiä voi käyttää sekä järjestelmä- että toissijaisilla levyillä, ja se on turvallinen tallennetulle datalle. Mahdollisesti vioittuneista tiedostoista tulee lukukelpoisia, tiedostosirpaleet viallisilla sektoreilla voivat kuitenkin olla vahingoittuneita. Käsitellyillä korjatuilla sektoreilla olevat tiedostot listataan, kun testi on valmis.
+targeted repair of problematic sectors=ongelmallisten sektoreiden kohdennettu korjaus
+Last error (hour)=Viimeisin virhe (tunti)
+Error free hours=Tunnit ilman virheitä
+Never=Ei koskaan
+Open Disk Management=Avaa Levynhallinta
+Open Device Manager=Avaa Laitehallinta
+Windows Drive Index=Windowsin asemaindeksi
+
+## added 30 Nov 2022 ##
+
+USB Device Name=USB-laitteen nimi
+safely remove required=turvallinen poisto edellytyksenä
+surprise remove possible=yllättävä poisto mahdollinen
+The current USB connection limits the speed of the disk drive. Connect to a different USB 3.0 port to get higher performance.=Nykyinen USB-yhteys rajoittaa levyaseman nopeutta. Yhdistä eri USB 3.0 -porttiin saavuttaaksesi korkeamman suorituskyvyn.
+The drive can degrade or fail when used with the current USB port which may not provide enough power for proper operation.=Asema voi hidastua tai lakata toimimasta, kun käytössä on nykyinen USB-portti, joka ehkä ei anna tarpeeksi virtaa kunnon toimintaan.
+The disk drive reached the end of the designed lifetime. Chance of sudden, unforeseen failure is higher.=Levy saavuttanut suunnitellun elinaikansa lopun. Äkillisen, ennakoimattoman vioittumisen mahdollisuus on suurempi.
+In a critical system, it is recommended to consider replacement.=Kriittisessä järjestelmässä on suositettavaa harkita korvaamista.
+One or more disk drive(s) may be disconnected or removed.=Yksi tai useampi levyasema saattaa olla irti tai poistettu.
+Probably the disk drive is not a real storage device: it shows very high available capacity, but data saved on it can be corrupted / lost.=Luultavasti levyasema ei ole tosiasiassa tallennin: se osoittaa hyvin korkeaa käytettävää kapasiteettia, mutta sille tallennettu data voi olla vioittunutta / kadonnut.
+
+## added 8 Nov 2023 ##
+
+When custom threshold reached=Kun asetettu kynnys saavutettu
+When disk added/connected=Kun levy lisätty/yhdistetty
+When disk removed/disconnected=Kun levy poistettu/irrotettu
+Drive Added=Asema lisätty
+Drive Removed=Asema poistettu
+Custom Alert=Mukautettu hälytys
+Configure custom alert threshold=Määritä mukautetun hälytyksen kynnys
+Disable custom alert for the selected attribute=Deaktivoi valittuun attribuuttiin liittyvä mukautettu hälytys
+Alert When Disk Drive(s) Added/Connected=Hälytä kun levyasem(i)a on lisätty/yhdistetty
+Alert When Disk Drive(s) Removed/Disconnected=Hälytä kun levyasem(i)a on poistettu/irrotettu
+Select disk(s) from the list by using the checkboxes=Valitse levy(t) luettelosta käyttäen valintaruutuja
+Trigger alert on next startup if the list of disk drives changed while Hard Disk Sentinel was not running=Anna hälytys seuraavassa käynnistyksessä, jos levyasemien luettelo on muuttunut, kun Hard Disk Sentinel ei ollut käynnissä
+Automatically show the disk drive as offline after removed (with last known status)=Näytä automaattisesti levyasema offline poiston jälkeen (viimeksi tunnetussa tilassa)
+Specify disk(s) to trigger alert when the list of detected disk drives changes.=Säädä levy(t) antamaan hälytys, kun löydettyjen levyasemien luettelo muuttuu.
+Specify disk(s) to DO NOT trigger alert when the list of disk drives changes (ignore).=Säädä että levy(t) EI anna hälytystä, kun levyasemien luettelo muuttuu (ei huomioida).
+Use the Select button or enter by disk drive model {firmware} / serial number.=Käytä toimintoa Valitse painike tai anna levyaseman malli {firmware} / sarjanumero.
+It is possible to use wildcards (* for any number of any characters, ? for any single character) to manually specify multiple disk drives.=On Mahdollista käyttää villikortteja (* rajaamatta määrää ja merkkejä, ? valiten minkä vain yksittäisen merkin).
+Example: WDC* will match all disks starting with WDC letters.=Esimerkki: WDC* viittaa kaikkiin kirjaimin WDC alkaviin levyihin.
+
+## added 26 Nov 2025 ##
+
+Safely Remove Drive From System=Poista asema turvallisesti järjestelmästä
+Save Screenshot=Tallenna ruudunkaappaus
+Reactivate Safely Removed Drive(s)=Aktivoi uudelleen poistetut asemat
+This single-PC license code already used to activate the software.=Tämä yksittäisen PC:n lisenssi jo käytetty ohjelmiston aktivointiin.
+To resolve or extend your license, please contact the developer by sending e-mail to info@hdsentinel.com=Selvittääksesi tai jatkaaksesi lisenssiäsi ota yhteyttä kehittäjään lähettämällä sähköpostin osoitteeseen info@hdsentinel.com
+Make sure to include the 15 digit license code (registration key).=Varmista että lisäät mukaan 15-numeroisen lisenssikoodin (rekisteröintiavaimen).
+The file is not applicable to activate the software. Please use the original 15 digit license code to register and activate by online or by e-mail instead.=Tiedosto ei kelpaa aktivoimaan ohjelmistoa. Käytä sen sijaan alkuperäistä 15-numeroista lisenssikoodia rekisteröimään ja aktivoimaan joko online tai sähköpostitse.
+Are you sure you want to remove (disconnect) the disk drive?=Haluatko varmasti poistaa (irrottaa) levyaseman?
+Last result:=Viime tulos:
+Folder to save screenshot image:=Kansio ruudunkaappauskuvan tallennukseen:
+File name template:=Tiedostonimen malli:
+File format (extension):=Tiedostomuoto (tiedostopääte):
+Save screenshot with single click, without displaying this window=Tallenna ruudunkaappaus yhdellä napsautuksella näyttämättä tätä ikkunaa
+Right click on the toolbar button to show this window again=Napsauta hiiren oikealla työkalurivin painiketta näyttämään tämä ikkuna uudelleen
+Select folder=Valitse kansio

@@ -1,0 +1,248 @@
+Ope&rações
+Projetos
+Agendamento
+Nome:
+Novo
+Remover
+Tipo:
+Executar aplicação externa ou ficheiro .bat
+Linha de comandos:
+Iniciar em modo oculto (sem janela)
+Executar em:
+Criar novo projeto
+Projeto
+Nome de projeto inválido. Não pode estar em branco e tem de ser um nome ainda não existente.
+Guardar
+Repor projetos predefinidos
+Iniciar
+Hora
+Executar depois
+Confirmar
+Hora fixa
+Após carregar
+Eliminar
+Adicionar novo projeto à lista
+Erro ao guardar o projeto.
+Pretende executar este projeto?
+Início do projeto
+Erro ao iniciar o projeto.
+Comentário:
+Procurar
+Executáveis|*.exe;*.bat;*.com|Todos os ficheiros|*.*
+Ativado
+Pretendes guardar a configuração modificada?
+Tem a certeza de que deseja eliminar este projeto?\nO projeto será também removido do agendamento.\nNúmero de opções de agendamento para este projeto:
+Tem a certeza de que deseja eliminar o projeto?
+Transferir ficheiros e pastas
+Origem
+Destino
+Configurar
+Adicionar
+Exceções
+Especifique os ficheiros a excluir pela aplicação:
+Os ficheiros especificados aqui serão ignorados pelo Hard Disk Sentinel. Não serão copiados nem afetados por qualquer opção.
+Definições globais
+Operações do projeto
+Opções do projeto
+O conteúdo destas pastas será guardado nas pastas de destino especificadas.
+Pasta de origem
+Pasta de destino
+Máscara de ficheiros
+Definições de pasta
+A pasta de destino será criada automaticamente (se necessário). É possível utilizar as seguintes variáveis para definir uma pasta:\n\n%USER% - nome do utilizador\n\n%COMPUTER% - nome do computador\n\n%IP% - endereço IP do computador\n\n%LAST=folder% - nome da última pasta criada/modificada (mais recente) na pasta especificada\n\nÉ possível especificar duas ou mais pastas de destino; separa-as por ; (ponto e vírgula).
+Selecione ou especifique pelo menos uma pasta de origem.
+Especifique uma pasta de destino válida.
+Editar
+Calcular a quantidade de dados a copiar
+Verificar dados copiados
+Copiar apenas ficheiros novos e atualizados
+Limpar o bit de arquivo nos ficheiros copiados
+Eliminar ficheiros de origem após cópia bem-sucedida
+Usar a data atual como nome da pasta e manter os últimos
+arquivos completos
+(Os arquivos anteriores serão automaticamente eliminados antes de iniciar a operação de gravação)
+Estado:
+Ficheiro:
+Quantidade de dados:
+A guardar dados
+A calcular quantidade de dados
+A copiar ficheiros
+A atualizar ficheiros
+A eliminar arquivo anterior
+A verificar arquivo
+MB/s
+minutos restantes
+segundos restantes
+Pasta:
+Destino:
+Guardar subpastas
+Após conclusão
+Enviar/mostrar relatório apenas se ocorrer um problema
+Enviar/mostrar relatório em todos os casos
+Não enviar nem mostrar relatório
+Tens a certeza de que queres eliminar os ficheiros de origem após o arquivamento?\n(Para máxima segurança de dados, recomenda-se usar esta opção apenas se arquivares os ficheiros em duas ou mais cópias ou se a opção "verificar dados copiados" estiver ativada.)
+A eliminar ficheiros de origem
+Concluído
+Projeto concluído com sucesso
+Estado do projeto
+Ocorreu um erro durante a execução do projeto
+Número de ficheiros guardados:
+Tempo total decorrido:
+Lista de erros
+Quantidade total de dados guardados:
+Não mostrar janela de progresso da gravação
+Tarefas concluídas com sucesso
+Cancelado
+Sem dados para guardar
+Não foi possível abrir a lista de ficheiros para verificar a partir desta pasta:
+Não foi possível eliminar:
+A configuração de e-mail está incompleta
+Falha ao enviar o e-mail
+Não foi possível abrir o ficheiro:
+Não foi possível criar o ficheiro:
+Não foi possível ler o ficheiro:
+Não foi possível escrever no ficheiro (disco cheio ou protegido contra escrita):
+Não foi possível verificar o ficheiro:
+Valor de checksum CRC em falta:
+Valor de checksum CRC incorreto:
+Iniciar agora
+Prioridade da operação
+Inativo
+Normal
+Máxima
+Erro ao abrir pasta de destino
+Após carregamento 1/dia
+Repetitivo
+Após:
+Automático
+Suspender a próxima execução
+Qualquer disco rígido
+O seguinte projeto não será executado porque outro projeto pendente está desativado.
+Pretendes modificar as definições?
+A processar relatório
+Operação de gravação de ficheiro iniciada. Se vês esta mensagem, a operação foi interrompida.
+Esta versão do Hard Disk Sentinel PRO não está registada.\nNa versão registada é possível remover a janela de confirmação para permitir que projetos de cópia de segurança sejam iniciados automaticamente.\n\nVisita a nossa página web em \n\nhttp://www.hdsentinel.com\n\npara instruções sobre o registo da aplicação.\n\nPretendes abrir o site agora?
+Alerta sonoro em caso de problema
+Não iniciar se a quantidade de dados for inferior a
+KB
+Emitir alerta se não houver dados suficientes
+Guardar também o nome da pasta de origem com o seu conteúdo
+Gravar CD/DVD com o NERO
+Comprimir ficheiros com o RAR
+Comprimir ficheiros com o 7-Zip
+Selecionar aplicação
+Ver linha de comandos
+Unidade de destino:
+Suporte:
+Velocidade:
+Proteção contra falhas de gravação
+Parâmetros:
+Ficheiro de destino:
+Vários volumes, tamanho de volume:
+A localização de Nerocmd.exe não está especificada.
+A localização de RAR.exe não está especificada.
+A localização de 7Z.exe não está especificada.
+Pretendes configurá-lo agora?
+Configuração parcial
+(Pressione CTRL+C para copiar o conteúdo da janela para a área de transferência).
+Alerta em caso de erro
+Será gerado um alerta (com base nas definições configuradas) se a aplicação externa terminar com um código de saída diferente de 0.
+Verificar escrita
+Erro na aplicação externa
+A seguinte linha de comandos terminou com erro:
+Código de erro da aplicação:
+A opção Wake-on-LAN deve estar ativada no computador de destino.
+Esperar até o computador estar pronto (responder ao PING)
+Parar de tentar se não houver resposta durante
+Computador de destino:
+Ação:
+Reiniciar
+Suspender
+Hibernar
+Ficheiro(s) de origem:
+Pasta(s) de origem:
+Vários e-mails, um ficheiro por e-mail
+Servidor FTP:
+Modo passivo
+Exportar itens do registo
+Ligar computador
+Desligar computador
+Enviar ficheiros por e-mail
+Transferir ficheiros por FTP
+Enviar ficheiros para o servidor HDS
+Nó raiz:
+Chave:
+Especifica uma chave de registo a exportar.
+Nenhuma chave especificada
+Pasta remota:
+Seleciona um computador ou introduz como \\nomedocomputador
+A exportar itens do registo...
+A iniciar computador(es)
+Segundos restantes antes de cancelar:
+&Cancelar agora
+A aguardar
+Resposta
+A encerrar...
+Encerramento iniciado de
+Especifica os computadores de destino separados por ,\nEspecifica . para o computador local\nNota: suspensão e hibernação não estão disponíveis em computadores remotos
+Novas tentativas de transferência:
+Atraso entre tentativas (seg):
+Erro de transferência.
+Recolher ficheiros até o tamanho total atingir
+Testar disco(s) rígido(s)
+Executar teste em todos os discos disponíveis
+Unidade(s) a testar:
+Não foi possível testar o disco rígido
+O teste ao disco rígido falhou
+Resultados do teste ao disco rígido:
+Autotestes suportados:
+Detalhes do teste ao disco rígido
+novos setores realocados encontrados
+novos erros de arranque de rotação encontrados
+novos eventos de realocação encontrados
+novos setores pendentes encontrados
+setores pendentes corrigidos
+novos setores não corrigíveis offline encontrados
+Copiar ficheiros da origem para o destino
+Atualizar dados no destino e manter ficheiros no destino que foram removidos da origem
+Sincronização unidirecional
+Atualizar dados no destino e remover ficheiros no destino que foram removidos da origem
+Sincronização bidirecional
+Atualizar dados tanto na origem como no destino, mantendo os ficheiros mais recentes em ambos os locais
+Controlo de cópia de segurança
+Opções de sincronização
+Total de ficheiros removidos do destino:
+Total de dados atualizados no destino:
+Total de dados copiados para a origem:
+Processar apenas ficheiros
+Que correspondam aos filtros especificados
+Configurar filtros de ficheiros
+Entre datas
+e
+Não mais antigo que
+Com tamanho
+Com atributos
+Arquivo
+Só de leitura
+Oculto
+Sistema
+Criar e usar ficheiros CRC para armazenar valores CRC de ficheiros
+Incluir ficheiros correspondentes
+Excluir ficheiros correspondentes
+Máscara de ficheiros:
+semanas
+meses
+anos
+\1 contém a lista completa de erros.
+Número total de erros encontrados:
+Configurar pastas para cópia de segurança
+Usa as caixas de seleção para escolher as pastas de ORIGEM ou introduz pastas separadas por ; abaixo da lista de pastas
+Seleciona a pasta de DESTINO ou introduz o respetivo caminho abaixo da lista
+Todos os ficheiros de origem de todas as pastas serão arquivados para o mesmo destino se esta opção estiver DESATIVADA.\nIsto pode causar problemas por perda de informação de caminho.
+Usar sincronização unidirecional ou bidirecional com esta opção pode causar arquivo incompleto.
+Tens a certeza de que queres continuar?
+Pausar
+Continuar
+Pausado – prime o botão Continuar
+Ignorar ficheiros em utilização (não partilháveis)
+Desativar mensagem de aviso
