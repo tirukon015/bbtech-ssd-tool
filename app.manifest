@@ -4,8 +4,8 @@
   <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
     <security>
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
-        <!-- asInvoker allows instant double-click launch on any laptop without UAC blockage -->
-        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+        <!-- requireAdministrator ensures raw disk access, NVMe telemetry, and Rufus-style partition formatting -->
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
       </requestedPrivileges>
     </security>
   </trustInfo>
